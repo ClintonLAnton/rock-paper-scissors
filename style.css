@@ -51,6 +51,10 @@ body {
     margin-top: 20px;
 }
 
+.choices :nth-child(1) {
+    padding-right: 15px;
+}
+
 .choice {
     font-size: 80px;
     background: none;
